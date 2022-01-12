@@ -1,0 +1,17 @@
+#cameraa{
+border-style: double;
+border-radius: 5%;
+width:400;
+height:250;
+}
+
+#results{
+    border-style: double;
+    border-radius: 5%;
+    width:400;
+    height:250;
+    }
+
+    body{
+        background-color: rgb(138, 251, 255);
+    }
